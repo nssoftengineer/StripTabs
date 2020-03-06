@@ -7,7 +7,9 @@ import androidx.viewpager.widget.ViewPager;
 
 import com.example.myapplication.ui.main.SectionsPagerAdapter;
 import com.google.android.material.tabs.TabLayout;
-
+/**
+ * createdBy neeraj singh 05/03/2020
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
