@@ -11,8 +11,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
 import com.example.myapplication.R;
 
 /**
- * A [FragmentPagerAdapter] that returns a fragment corresponding to
- * one of the sections/tabs/pages.
+ * createdBy neeraj singh 05/03/2020
  */
 public class SectionsPagerAdapter extends FragmentPagerAdapter {
 

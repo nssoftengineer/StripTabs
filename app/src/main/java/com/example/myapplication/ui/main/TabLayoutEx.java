@@ -11,7 +11,9 @@ import com.google.android.material.tabs.TabLayout;
 
 import java.lang.reflect.Field;
 
-
+/**
+ * createdBy neeraj singh 05/03/2020
+ */
 public class TabLayoutEx extends TabLayout {
 
     public TabLayoutEx(Context context) {
